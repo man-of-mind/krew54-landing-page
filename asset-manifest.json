@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/krew54-landing-page/static/css/main.8ff842d1.css",
+    "main.js": "/krew54-landing-page/static/js/main.40a33290.js",
+    "static/media/3.svg": "/krew54-landing-page/static/media/3.8cdad40b4bd5c8aff55332f20448e735.svg",
+    "static/media/2.svg": "/krew54-landing-page/static/media/2.a5e3373ac14985e056f9ad6690c9efbf.svg",
+    "static/media/1.svg": "/krew54-landing-page/static/media/1.825ae70d676f4a76f28a94f522a5c8fe.svg",
+    "static/media/logo.svg": "/krew54-landing-page/static/media/logo.7210268dc9e8f73418e66c7abdbdf682.svg",
+    "static/media/disc.svg": "/krew54-landing-page/static/media/disc.d83e6aed441be3c6c442809208055a17.svg",
+    "static/media/box.svg": "/krew54-landing-page/static/media/box.0e837dfb4df7492f8763464abcba0787.svg",
+    "index.html": "/krew54-landing-page/index.html",
+    "main.8ff842d1.css.map": "/krew54-landing-page/static/css/main.8ff842d1.css.map",
+    "main.40a33290.js.map": "/krew54-landing-page/static/js/main.40a33290.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8ff842d1.css",
+    "static/js/main.40a33290.js"
+  ]
+}
