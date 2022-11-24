@@ -10,7 +10,11 @@ module.exports = {
         "100": "#1F6363"
       },
     },
-    extend: {},
+    extend: {
+      screens: {
+        'md': '852px',
+      },
+    },
   },
   plugins: [],
 };
