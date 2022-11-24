@@ -31,8 +31,8 @@ const Footer = () => {
           </div>
           <div className="flex flex-col justify-between pl-8">
             <span className="mb-auto font-semibold text-base">Connect</span>
-            <span className="pb-[18px] text-sm">hello@krew54.com</span>
-            <span className="pb-[18px] text-sm">+234 812 345 6789</span>
+            <span className="pb-[18px] text-sm">****@krew54.com</span>
+            <span className="pb-[18px] text-sm">+234 812 *** 6789</span>
             <div className="flex justify-between">
               <AiFillInstagram size={20} />
               <FaLinkedin size={20} />
@@ -66,8 +66,8 @@ const Footer = () => {
         <div className="flex flex-row justify-between pt-8">
           <div className="flex flex-col justify-between">
             <span className="mb-auto font-semibold text-base">Connect</span>
-            <span className="pb-[10px] text-sm">hello@krew54.com</span>
-            <span className="pb-[10px] text-sm">+234 812 345 6789</span>
+            <span className="pb-[10px] text-sm">****@krew54.com</span>
+            <span className="pb-[10px] text-sm">+234 812 *** 6789</span>
             <div className="flex justify-between">
               <AiFillInstagram size={20} />
               <FaLinkedin size={20} />
@@ -75,15 +75,22 @@ const Footer = () => {
               <SiTelegram size={20} />
             </div>
           </div>
-          <div className="flex flex-col justify-between pr-7">
+          <div className="flex flex-col justify-between xx:pr-7 pr-4">
             <span className="mb-auto font-semibold text-base">Help</span>
             <span className="pb-[10px] text-sm">FAQs</span>
             <span className="pb-[10px] text-sm">Contact Us</span>
             <span className="pb-[10px] text-sm"> </span>
           </div>
         </div>
+        <hr className="mt-10"></hr>
+        <div className="text-white-100 flex justify-center pt-2">
+          <span className="text-center">
+            Leveraging technology &#38; social engagement to promote African’s
+            financial inclusion.{" "}
+          </span>
+        </div>
       </section>
-      <section className="hidden md:block md:h-[50px] xl:h-[100px] bg-[black]" />
+      <section className="md:h-[50px] xl:h-[100px] h-[29px] lg:bg-[black] bg-white-90" />
     </div>
   );
 };

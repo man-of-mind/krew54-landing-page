@@ -9,8 +9,8 @@ import Earn from "../../Assets/Images/earn.svg";
 
 const Body = () => {
   return (
-    <div className="bg-white-100 px-7 md:px-10 lg:px-24 xl:px-36 pt-[56px] pb-[35px] lg:pb-[102px]">
-      <h3 className="font-semibold text-[#200E32] text-base sm:text-3xl sm:pt-6 md:text-4xl lg:text-5xl">
+    <div className="bg-white-90 px-7 md:px-10 lg:px-24 xl:px-36 pt-[30px] lg:pt-[56px] pb-[35px] lg:pb-[102px]">
+      <h3 className="font-semibold text-green-100 text-base sm:text-3xl sm:pt-6 lg:pt-0 md:text-4xl lg:text-5xl">
         Mission
       </h3>
       <p className="md:w-[808px] text-base font-light md:font-extrabold pt-3 leading-7 pb-9">
@@ -21,10 +21,10 @@ const Body = () => {
         <MissionContainer
           missionStatement="All in One Place for Information"
           feature1="Expert Room"
-          description1="Expert provide answers to niched questions... Quora for African."
+          description1="Expert provide answers to niched questions... Quora for Africans."
           icon1={Box}
           feature2="Customised Content Feed"
-          description2="Articles and News based on prefernece."
+          description2="Articles and News based on preference."
           icon2={ContentFeed}
           feature3="Exchange Rate"
           description3="Accurate and up-to-date exchange rates at your finger tips."
@@ -34,7 +34,7 @@ const Body = () => {
         <MissionContainer
           missionStatement="Multiple Foreign Accounts - USD, EUR & GBP"
           feature1="Send & Receive"
-          description1="Expert provide answers to niched questions... Quora for African."
+          description1="Send money to and from Africa, as remittance or payment for foreing expenses"
           icon1={SendReceive}
           feature2="Spend & Shop "
           description2="Virtual card for all your international transactions."
@@ -54,7 +54,7 @@ const Body = () => {
               Expert Room
             </span>
             <p className="text-sm sm:text-base font-light">
-              Expert provide answers to niched questions... Quora for African.
+              Expert provide answers to niched questions... Quora for Africans.
             </p>
           </div>
           <div className="pt-6">
@@ -74,7 +74,7 @@ const Body = () => {
             </p>
           </div>
         </div>
-        <p className="font-semibold text-base pt-4">
+        <p className="font-semibold text-base pt-12">
           Multiple Foreign Accounts - USD, GBP & EUR
         </p>
         <div className="rounded-[10px] bg-[#E0E7E7] p-4 mt-3">
