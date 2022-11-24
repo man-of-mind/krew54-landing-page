@@ -1,19 +1,21 @@
 {
   "files": {
-    "main.css": "/krew54-landing-page/static/css/main.8ff842d1.css",
-    "main.js": "/krew54-landing-page/static/js/main.40a33290.js",
-    "static/media/3.svg": "/krew54-landing-page/static/media/3.8cdad40b4bd5c8aff55332f20448e735.svg",
-    "static/media/2.svg": "/krew54-landing-page/static/media/2.a5e3373ac14985e056f9ad6690c9efbf.svg",
-    "static/media/1.svg": "/krew54-landing-page/static/media/1.825ae70d676f4a76f28a94f522a5c8fe.svg",
+    "main.css": "/krew54-landing-page/static/css/main.f57ed2f0.css",
+    "main.js": "/krew54-landing-page/static/js/main.7a138b85.js",
+    "static/media/mock.svg": "/krew54-landing-page/static/media/mock.f4f08ebcf71b9a165dfab1ca910b6510.svg",
+    "static/media/content-feed.svg": "/krew54-landing-page/static/media/content-feed.eed99bddff7caff7f4884d8d54429b15.svg",
     "static/media/logo.svg": "/krew54-landing-page/static/media/logo.7210268dc9e8f73418e66c7abdbdf682.svg",
-    "static/media/disc.svg": "/krew54-landing-page/static/media/disc.d83e6aed441be3c6c442809208055a17.svg",
+    "static/media/exchange.svg": "/krew54-landing-page/static/media/exchange.4d669cb44d6c0ade6e008030233cd0ba.svg",
+    "static/media/shop.svg": "/krew54-landing-page/static/media/shop.5d08aec756f5d95cebec65145791dec5.svg",
     "static/media/box.svg": "/krew54-landing-page/static/media/box.0e837dfb4df7492f8763464abcba0787.svg",
     "index.html": "/krew54-landing-page/index.html",
-    "main.8ff842d1.css.map": "/krew54-landing-page/static/css/main.8ff842d1.css.map",
-    "main.40a33290.js.map": "/krew54-landing-page/static/js/main.40a33290.js.map"
+    "static/media/earn.svg": "/krew54-landing-page/static/media/earn.df878feeb0235e581d7696bac448caa0.svg",
+    "static/media/send-receive.svg": "/krew54-landing-page/static/media/send-receive.086e14ee207ad7dc87d9b9dd99b42e4d.svg",
+    "main.f57ed2f0.css.map": "/krew54-landing-page/static/css/main.f57ed2f0.css.map",
+    "main.7a138b85.js.map": "/krew54-landing-page/static/js/main.7a138b85.js.map"
   },
   "entrypoints": [
-    "static/css/main.8ff842d1.css",
-    "static/js/main.40a33290.js"
+    "static/css/main.f57ed2f0.css",
+    "static/js/main.7a138b85.js"
   ]
 }
