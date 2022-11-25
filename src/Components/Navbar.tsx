@@ -1,37 +1,27 @@
 import React, { useState } from "react";
 import Logo from "../Assets/Images/logo.svg";
 import { Burger } from "@mantine/core";
+import WaitlistModal from "./Modal";
 
 const Navbar = () => {
   const [opened, setOpened] = useState(false);
+  const [open, setOpen] = React.useState(false);
   const title = opened ? "Close navigation" : "Open navigation";
 
   return (
     <div className="flex pt-6 xl:pt-8 px-7 pb-5 xl:pb-7 md:px-10 lg:px-24 xl:px-36 items-center justify-between bg-green-100 lg:bg-white-90">
       <img src={Logo} alt="krew54 logo" />
       <div className="hidden md:block flex justify-between lg:ml-auto md:mr-12 xl:mr-36 text-green-100 font-bold text-base">
-        <span className="pr-16">
-          Product
-        </span>
-        <span className="pr-16">
-          Company
-        </span>
-        <span className="pr-16">
-          Blog
-        </span>
-        <span className="pr-16">
-          Help
-        </span>
+        <span className="pr-16">Product</span>
+        <span className="pr-16">Company</span>
+        <span className="pr-16">Blog</span>
+        <span className="pr-16">Help</span>
       </div>
-      <span className="hidden lg:block rounded-[5px] bg-green-100 text-white-100 py-2.5 px-6 font-medium text-base">
-        <a
-          href="https://docs.google.com/forms/d/1Gl9yv_0rw2B7l-72rI11oiDjBF0BzfMwGXdEvotruXw/viewform?edit_requested=true"
-          target="_blank"
-          className="text-white-100"
-          rel="noreferrer"
-        >
-          Join Waitlist
-        </a>
+      <span
+        onClick={() => setOpen(true)}
+        className="hidden cursor-pointer lg:block rounded-[5px] bg-green-100 text-white-100 py-2.5 px-6 font-medium text-base"
+      >
+        Join Waitlist
       </span>
       <div className="lg:hidden ml-auto">
         <Burger
@@ -59,6 +49,7 @@ const Navbar = () => {
           </div>
         </div>
       )}
+      <WaitlistModal open={open} setOpened={setOpen} />
     </div>
   );
 };
