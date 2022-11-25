@@ -75,7 +75,7 @@ const Footer = () => {
               <SiTelegram size={20} />
             </div>
           </div>
-          <div className="flex flex-col justify-between xx:pr-7 pr-4">
+          <div className="flex flex-col justify-between xx:pr-6 pr-5">
             <span className="mb-auto font-semibold text-base">Help</span>
             <span className="pb-[10px] text-sm">FAQs</span>
             <span className="pb-[10px] text-sm">Contact Us</span>

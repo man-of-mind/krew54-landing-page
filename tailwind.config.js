@@ -5,7 +5,8 @@ module.exports = {
     colors: {
       white: {
         "100": "rgba(248, 247, 236, 1)",
-        "90": "rgba(214, 214, 214, 1)"
+        "90": "rgba(248, 247, 236, 1)",
+//        "90": "rgba(214, 214, 214, 1)"
       },
       green: {
         "100": "#1F6363"
@@ -14,7 +15,7 @@ module.exports = {
     extend: {
       screens: {
         'md': '852px',
-        'xx': '334px'
+        'xx': '334px',
       },
     },
   },

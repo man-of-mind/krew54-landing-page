@@ -3,7 +3,7 @@ import Mock from '../Assets/Images/mock.svg';
 
 const Hero = () => {
   return (
-    <div className="bg-green-100 flex flex-col lg:flex-row lg:justify-between h-[493px] xx:h-[470px] sm:h-[585px] lg:pb-[27px] lg:pt-[103px] lg:h-fit md:px-10 lg:px-24 xl:px-36">
+    <div className="bg-green-100 flex flex-col lg:flex-row lg:justify-between h-[500px] xx:h-[505px] sm:h-[585px] lg:pb-[27px] lg:pt-[103px] lg:h-fit md:px-10 lg:px-24 xl:px-36">
       <div className="flex flex-col items-center justify-center lg:items-start lg:max-w-lg xl:max-w-xl px-8 lg:px-0">
         <h2 className="pt-14 text-white-100 xl:text-[64px] text-[32px] md:text-5xl font-semibold text-center">
           All in One Place
@@ -26,7 +26,8 @@ const Hero = () => {
         <img src={Mock} alt="mock pcitures" width={400} className="hidden xl:block"/>
         <img src={Mock} alt="mock pcitures" width={300} className="hidden lg:block xl:hidden"/>
         <img src={Mock} alt="mock pcitures" width={320} className="hidden sm:block lg:hidden xl:hidden mx-auto pt-12"/>
-        <img src={Mock} alt="mock pcitures" width={180} className="block sm:hidden lg:hidden xl:hidden mx-auto pt-8"/>
+        <img src={Mock} alt="mock pcitures" width={200} className="hidden xx:block sm:hidden lg:hidden xl:hidden mx-auto pt-12"/>
+        <img src={Mock} alt="mock pcitures" width={180} className="block xls:hidden xx:hidden sm:hidden lg:hidden xl:hidden mx-auto pt-8"/>
       </div>
     </div>
   );
