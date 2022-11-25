@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/krew54-landing-page/static/css/main.1eff21dd.css",
-    "main.js": "/krew54-landing-page/static/js/main.5cdd60f5.js",
+    "main.js": "/krew54-landing-page/static/js/main.b1b33c16.js",
     "static/media/mock.svg": "/krew54-landing-page/static/media/mock.f4f08ebcf71b9a165dfab1ca910b6510.svg",
     "static/media/content-feed.svg": "/krew54-landing-page/static/media/content-feed.eed99bddff7caff7f4884d8d54429b15.svg",
     "static/media/logo.svg": "/krew54-landing-page/static/media/logo.7210268dc9e8f73418e66c7abdbdf682.svg",
@@ -12,10 +12,10 @@
     "static/media/earn.svg": "/krew54-landing-page/static/media/earn.df878feeb0235e581d7696bac448caa0.svg",
     "static/media/send-receive.svg": "/krew54-landing-page/static/media/send-receive.086e14ee207ad7dc87d9b9dd99b42e4d.svg",
     "main.1eff21dd.css.map": "/krew54-landing-page/static/css/main.1eff21dd.css.map",
-    "main.5cdd60f5.js.map": "/krew54-landing-page/static/js/main.5cdd60f5.js.map"
+    "main.b1b33c16.js.map": "/krew54-landing-page/static/js/main.b1b33c16.js.map"
   },
   "entrypoints": [
     "static/css/main.1eff21dd.css",
-    "static/js/main.5cdd60f5.js"
+    "static/js/main.b1b33c16.js"
   ]
 }
