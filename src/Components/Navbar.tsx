@@ -10,18 +10,18 @@ const Navbar = () => {
     <div className="flex pt-6 xl:pt-8 px-7 pb-5 xl:pb-7 md:px-10 lg:px-24 xl:px-36 items-center justify-between bg-green-100 lg:bg-white-90">
       <img src={Logo} alt="krew54 logo" />
       <div className="hidden md:block flex justify-between lg:ml-auto md:mr-12 xl:mr-36 text-green-100 font-bold text-base">
-        <a className="pr-16" href="/#">
+        <span className="pr-16">
           Product
-        </a>
-        <a href="/#" className="pr-16">
+        </span>
+        <span className="pr-16">
           Company
-        </a>
-        <a href="/#" className="pr-16">
+        </span>
+        <span className="pr-16">
           Blog
-        </a>
-        <a href="/#" className="pr-16">
+        </span>
+        <span className="pr-16">
           Help
-        </a>
+        </span>
       </div>
       <span className="hidden lg:block rounded-[5px] bg-green-100 text-white-100 py-2.5 px-6 font-medium text-base">
         <a
