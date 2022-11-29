@@ -153,6 +153,19 @@ const WaitlistModal = ({
           )}
           <button
             type="submit"
+            disabled={isSubmitting}
+            style={
+              !isSubmitting
+                  ? {
+                        backgroundColor:
+                          "#1F6363",
+                    }
+                  : {
+                        backgroundColor:
+                          "#1F6363",
+                          opacity: "0.7",
+                    }
+          }
             className="cursor-pointer self-center font-bold px-4 py-3 bg-green-100 w-fit rounded-lg mt-10 text-white-100"
           >
             {!isSubmitting ? "Join Waitlist" : "Loading..."}
