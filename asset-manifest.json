@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/krew54-landing-page/static/css/main.a9f89ec5.css",
-    "main.js": "/krew54-landing-page/static/js/main.b7c88815.js",
-    "static/media/mock.svg": "/krew54-landing-page/static/media/mock.f4f08ebcf71b9a165dfab1ca910b6510.svg",
-    "static/media/content-feed.svg": "/krew54-landing-page/static/media/content-feed.eed99bddff7caff7f4884d8d54429b15.svg",
-    "static/media/logo.svg": "/krew54-landing-page/static/media/logo.7210268dc9e8f73418e66c7abdbdf682.svg",
-    "static/media/exchange.svg": "/krew54-landing-page/static/media/exchange.4d669cb44d6c0ade6e008030233cd0ba.svg",
-    "static/media/shop.svg": "/krew54-landing-page/static/media/shop.5d08aec756f5d95cebec65145791dec5.svg",
-    "static/media/box.svg": "/krew54-landing-page/static/media/box.0e837dfb4df7492f8763464abcba0787.svg",
+    "main.css": "/krew54-landing-page/static/css/main.d378552a.css",
+    "main.js": "/krew54-landing-page/static/js/main.9999ad95.js",
+    "static/media/mock.svg": "/krew54-landing-page/static/media/mock.7b7ded74279a76d19d6349e6faa9afe7.svg",
+    "static/media/content-feed.svg": "/krew54-landing-page/static/media/content-feed.f0e3abc22deb17ab94359d3901a65759.svg",
+    "static/media/logo.svg": "/krew54-landing-page/static/media/logo.6fdd9f6ccc24b274b7b421781eb5b1b2.svg",
+    "static/media/exchange.svg": "/krew54-landing-page/static/media/exchange.fde709df419f2cf2adcb85b9dce1d57a.svg",
+    "static/media/shop.svg": "/krew54-landing-page/static/media/shop.31a285ff57133d3060a0ca105d1d813f.svg",
+    "static/media/box.svg": "/krew54-landing-page/static/media/box.67f684cf2fb34300a1e58862e227ea00.svg",
     "index.html": "/krew54-landing-page/index.html",
-    "static/media/earn.svg": "/krew54-landing-page/static/media/earn.df878feeb0235e581d7696bac448caa0.svg",
-    "static/media/send-receive.svg": "/krew54-landing-page/static/media/send-receive.086e14ee207ad7dc87d9b9dd99b42e4d.svg",
-    "main.a9f89ec5.css.map": "/krew54-landing-page/static/css/main.a9f89ec5.css.map",
-    "main.b7c88815.js.map": "/krew54-landing-page/static/js/main.b7c88815.js.map"
+    "static/media/earn.svg": "/krew54-landing-page/static/media/earn.7e399044f06310adb7ab573cfb9f298d.svg",
+    "static/media/send-receive.svg": "/krew54-landing-page/static/media/send-receive.2f7ff78600320e0d1037b22e8c2437a4.svg",
+    "main.d378552a.css.map": "/krew54-landing-page/static/css/main.d378552a.css.map",
+    "main.9999ad95.js.map": "/krew54-landing-page/static/js/main.9999ad95.js.map"
   },
   "entrypoints": [
-    "static/css/main.a9f89ec5.css",
-    "static/js/main.b7c88815.js"
+    "static/css/main.d378552a.css",
+    "static/js/main.9999ad95.js"
   ]
 }
