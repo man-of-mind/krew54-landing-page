@@ -1,3 +1,4 @@
+/* eslint-disable no-useless-escape */
 import { Alert, Modal, TextInput } from "@mantine/core";
 import { useForm } from "@mantine/form";
 import React from "react";
